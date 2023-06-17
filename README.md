@@ -7,8 +7,8 @@ required but highly recommended to keep your GKE cluster isolated.
 
 ***Steps***
 Update terraform.tfvars:
-    project_id = "<your project id>"
-    region     = "<your default region>"
+    project_id = "your project id"
+    region     = "your default region"
 
 Next run gcloud auth login. This will take you to web brower where you can login to your gcloud account
 
