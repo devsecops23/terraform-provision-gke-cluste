@@ -14,7 +14,7 @@ variable "env_name" {
 
 variable "region" {
   description = "The region to host the cluster in"
-  default     = "europe-west1"
+  default     = "us-east1"
 }
 
 variable "network" {
