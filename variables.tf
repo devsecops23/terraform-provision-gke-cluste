@@ -1,4 +1,5 @@
 variable "project_id" {
+  default = "data-centaur-385400"
   description = "The project ID to host the cluster in"
 }
 
